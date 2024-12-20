@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900610851",
+    "firebase_url": "https://fir-notes-project-e0486-default-rtdb.firebaseio.com",
+    "project_id": "fir-notes-project-e0486",
+    "storage_bucket": "fir-notes-project-e0486.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900610851:android:a5790966a364ab08ab6a96",
+        "android_client_info": {
+          "package_name": "com.night.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900610851-66vp88jdntfdha9kc5239omg9005n89b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.night.notes",
+            "certificate_hash": "94389b0548fe0eec5f6c86ba4b8aa9a7aa5c00e6"
+          }
+        },
+        {
+          "client_id": "900610851-li1s37tltl991gj27qpab5threoc1l58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGpSIQS2agVUyLDYBkJT0RvVi_j0xwOUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900610851-li1s37tltl991gj27qpab5threoc1l58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
