@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#151522"
+    android:background="#201c1c"
     tools:context=".LoginActivity"
     android:orientation="vertical">
 
@@ -18,18 +18,21 @@
 
 
         <ImageView
-            android:layout_width="match_parent"
+            android:layout_width="218dp"
             android:layout_height="150dp"
-            android:layout_gravity="center_horizontal"
-            android:src="@drawable/google_icon" />
-
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_launcher_foreground" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:includeFontPadding="false"
             android:paddingTop="20sp"
-            android:shadowColor="#0E0E0E"
+            android:shadowColor="#201c1c"
             android:text="Sign In"
             android:textAlignment="center"
             android:textColor="@color/white"
@@ -39,11 +42,11 @@
             android:layout_height="wrap_content"
             android:includeFontPadding="false"
             android:shadowColor="#0E0E0E"
-            android:text="Sign-In with Google using Firebase!"
+            android:text="Using Google"
             android:textAlignment="center"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="40dp"
             android:textColor="@color/white"
-            android:textSize="14sp" />
+            android:textSize="18sp" />
 
 
         <Space
